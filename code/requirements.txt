@@ -297,7 +297,7 @@ tabulate==0.8.5
 TBB==0.1
 tensorboard==1.12.2
 tensorboardX==1.9
-tensorflow==1.13.0rc2
+tensorflow==1.15.4
 tensorflow-estimator==1.13.0rc0
 termcolor==1.1.0
 terminado==0.8.1
