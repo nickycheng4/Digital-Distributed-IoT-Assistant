@@ -252,7 +252,7 @@ pytorch-pretrained-bert==0.6.2
 pytorch-transformers==1.1.0
 PyTweening==1.0.3
 pytz==2018.9
-PyYAML==5.1.1
+PyYAML==5.4
 pyzmq==17.1.2
 qtconsole==4.4.3
 reader==0.5
