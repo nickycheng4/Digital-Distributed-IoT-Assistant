@@ -139,7 +139,7 @@ PyAutoGUI==0.9.47
 pycparser==2.19
 PyDictionary==1.5.2
 PyGetWindow==0.0.7
-Pygments==2.3.1
+Pygments==2.7.4
 pylint==2.2.2
 pymongo==3.9.0
 PyMsgBox==1.0.7
